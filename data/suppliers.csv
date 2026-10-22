@@ -1,0 +1,8 @@
+
+company,industry,material,quantity_tons,purity_pct,location,disposal_cost_per_ton
+Mysuru Rice Mills,Food Processing,Rice Husk,18,92,Mysuru,450
+Karnataka Thermal Unit,Power Generation,Fly Ash,80,88,Raichur,700
+Mandya Sugar Works,Sugar Processing,Bagasse,35,85,Mandya,300
+South Textile Industries,Textile,Cotton Waste,12,95,Bengaluru,500
+Coastal Food Products,Food Processing,Organic Waste,22,80,Mangaluru,250
+SteelWorks Karnataka,Steel,Iron Slag,45,90,Ballari,650
