@@ -1,0 +1,9 @@
+
+company,industry,needed_material,required_tons,min_purity_pct,location
+Green Board Manufacturers,Building Materials,Rice Husk,10,80,Mysuru
+Eco Cement Ltd,Cement,Fly Ash,60,80,Kalaburagi
+BioEnergy Solutions,Renewable Energy,Bagasse,25,75,Mandya
+Recycled Fibre Co,Paper and Textiles,Cotton Waste,8,90,Bengaluru
+Compost Karnataka,Organic Fertilizer,Organic Waste,15,70,Mangaluru
+RoadBuild Materials,Construction,Iron Slag,30,85,Ballari
+Alternative Fuel Plant,Renewable Energy,Rice Husk,15,85,Hassan
